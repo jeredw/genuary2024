@@ -1,3 +1,5 @@
+# genuary 2024
+
 [Advent of Code 2023](https://github.com/jeredw/advent2023) was fun but not
 very creative.  So this year I am going to try out this [Genuary
 2024](https://genuary.art/) thing, a daily generative art programming prompt
