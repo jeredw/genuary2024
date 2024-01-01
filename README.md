@@ -5,7 +5,8 @@ very creative.  So this year I am going to try out this [Genuary
 2024](https://genuary.art/) thing, a daily generative art programming prompt
 for January.
 
-## Day 1
+## Day 1 - particles, lots of them
 
-Particles!  Black hole sun type thing?  I could probably make more particles if
-I moved the update loop out of JS... hmm.
+[Black hole sun](https://jeredw.github.io/genuary2024/day1.html) type thing?  I
+could probably make many more particles if I moved the update loop out of JS...
+hmm.  Warning makes noise if you click.
