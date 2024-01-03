@@ -18,3 +18,11 @@ comfortable fps.  Added some angular velocity and more general fooling around,
 this was super fun.
 
 *PS*: I commented out the sound because it was too annoying.
+
+## Day 2 - no palettes
+
+[moire + ntsc?](https://jeredw.github.io/genuary2024/day2.html) today.  The
+prompt "emergent colors" made me think of artifact colors, so here's a really
+simple moire pattern with an ntsc ish decoder on top.  This would really be
+much better as a couple pixel shaders but I'm not set up for webgl, maybe in
+the coming days.

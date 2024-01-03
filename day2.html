@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<title>no palettes</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000;
+  overflow: hidden;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+#moire {
+  display: none;
+}
+
+.fps {
+  font-size: 8px;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+</style>
+</head>
+<body>
+<canvas id="moire" width=1000 height=1000></canvas>
+<canvas id="screen" width=1000 height=1000></canvas>
+<div class=fps></div>
+<script src="day2.js"></script>
+</body>
+</html>
